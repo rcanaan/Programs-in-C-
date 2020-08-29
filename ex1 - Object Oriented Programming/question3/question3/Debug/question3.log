@@ -1,0 +1,12 @@
+﻿  Circle.cpp
+c:\users\owner\documents\שנה א\סמסטר ב\מעבדה בc++\ex1\question3\question3\circle.cpp(21): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\owner\documents\שנה א\סמסטר ב\מעבדה בc++\ex1\question3\question3\circle.cpp(23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\owner\documents\שנה א\סמסטר ב\מעבדה בc++\ex1\question3\question3\circle.cpp(28): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\owner\documents\שנה א\סמסטר ב\מעבדה בc++\ex1\question3\question3\circle.cpp(36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Point.cpp
+  main.cpp
+c:\users\owner\documents\שנה א\סמסטר ב\מעבדה בc++\ex1\question3\question3\main.cpp(23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\owner\documents\שנה א\סמסטר ב\מעבדה בc++\ex1\question3\question3\main.cpp(24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\owner\documents\שנה א\סמסטר ב\מעבדה בc++\ex1\question3\question3\main.cpp(25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  question3.vcxproj -> C:\Users\owner\Documents\שנה א\סמסטר ב\מעבדה בC++\ex1\question3\Debug\question3.exe

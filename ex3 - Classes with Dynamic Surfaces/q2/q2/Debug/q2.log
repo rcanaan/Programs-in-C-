@@ -1,0 +1,3 @@
+﻿  Vector.cpp
+c:\users\owner\documents\שנה א\סמסטר ב\מעבדה בc++\ex3\q2\q2\vector.cpp(79): warning C4715: 'Vector::operator[]': not all control paths return a value
+  q2.vcxproj -> C:\Users\owner\Documents\שנה א\סמסטר ב\מעבדה בC++\ex3\q2\Debug\q2.exe

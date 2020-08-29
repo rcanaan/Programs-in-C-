@@ -1,0 +1,9 @@
+﻿  Main.cpp
+C:\Users\רינת כנען\Desktop\שנה א'\סמסטר ב\סמסטר ב\מעבדה בC++\ex8\q1\q1\Main.cpp(177): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\רינת כנען\Desktop\שנה א'\סמסטר ב\סמסטר ב\מעבדה בC++\ex8\q1\q1\Main.cpp(223): warning C4244: 'return': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\רינת כנען\Desktop\שנה א'\סמסטר ב\סמסטר ב\מעבדה בC++\ex8\q1\q1\Main.cpp(162): warning C4101: 'z': unreferenced local variable
+  q1.vcxproj -> C:\Users\רינת כנען\Desktop\שנה א'\סמסטר ב\סמסטר ב\מעבדה בC++\ex8\q1\Debug\q1.exe
